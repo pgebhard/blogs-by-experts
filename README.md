@@ -41,6 +41,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Stuart Reid: [Stock market prices do not follow random walks](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
  - John Cochrane: [The next crisis?](http://johnhcochrane.blogspot.com/2016/12/the-next-crisis.html)
  - Ben Bernanke: [Ben Bernanke's Blog](https://www.brookings.edu/blog/ben-bernanke/2016/10/19/are-americans-better-off-than-they-were-a-decade-or-two-ago/)
+ 
+## Finance
+
+ - Aswath Damodaran: [Musings on Markets](http://pages.stern.nyu.edu/~adamodar/)
 
 ## Mathematics
 
