@@ -44,7 +44,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  
 ## Finance
 
- - Aswath Damodaran: [Musings on Markets](http://pages.stern.nyu.edu/~adamodar/)
+ - Aswath Damodaran: [Musings on Markets](http://aswathdamodaran.blogspot.com/2016/12/active-investing-rest-in-peace-or.html)
 
 ## Mathematics
 
