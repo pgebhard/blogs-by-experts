@@ -42,8 +42,6 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
  - Richard Serlin: [The Intuition behind Wallace Neutrality](http://richardhserlin.blogspot.com/2015/07/the-intuition-behind-wallace-neutrality.html)
  - Russ Roberts: [The Human Side of Trade](http://russroberts.info/human-side-trade/)
  - Stuart Reid: [Stock market prices do not follow random walks](http://www.turingfinance.com/stock-market-prices-do-not-follow-random-walks/)
- - John Cochrane: [The next crisis?](http://johnhcochrane.blogspot.com/2016/12/the-next-crisis.html)
- - Ben Bernanke: [Ben Bernanke's Blog](https://www.brookings.edu/blog/ben-bernanke/2016/10/19/are-americans-better-off-than-they-were-a-decade-or-two-ago/)
  
 ## Finance
 
