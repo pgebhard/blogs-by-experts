@@ -7,6 +7,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
 # Experts
 
+## Astronomy
+
+ - Duncan Steel: [Maps of the Outer Solar System](http://www.duncansteel.com/archives/2140)
+
 ## Biology
 
  - Lior Pachter: [The perfect human is Puerto Rican](https://liorpachter.wordpress.com/2014/12/02/the-perfect-human-is-puerto-rican/)
