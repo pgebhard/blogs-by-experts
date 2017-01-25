@@ -7,6 +7,10 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
 # Experts
 
+## Academia
+
+- Philip Guo: [What I would've wanted to know as a first-year assistant professor](http://www.pgbovine.net/first-year-assistant-professor.htm)
+
 ## Astronomy
 
  - Duncan Steel: [Maps of the Outer Solar System](http://www.duncansteel.com/archives/2140)
