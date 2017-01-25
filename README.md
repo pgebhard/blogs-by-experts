@@ -76,6 +76,7 @@ Pull requests are encouraged. See CONTRIBUTING.md for more details.
 
  - Jeff Knupp: [How Python Linters Will Save Your Large Python Project](https://jeffknupp.com/blog/2016/12/09/how-python-linters-will-save-your-large-python-project/)
  - John A. De Goes: [A Beginner-Friendly Tour of Functional Programming in Scala](http://degoes.net/articles/easy-monads)
+ - Philip Guo: [What is a programming language? A six-layer model](http://www.pgbovine.net/what-is-a-programming-language.htm)
 
 ## Psychiatry
 
